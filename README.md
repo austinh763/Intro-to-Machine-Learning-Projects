@@ -1,2 +1,3 @@
-# CPSC-483-ML
-machine learning
+# CPSC-483
+Intro to Machine Learning
+
